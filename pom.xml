@@ -31,7 +31,7 @@
 <connection>scm:git:https://github.com/AMIBYO/project-.git</connection>
 <url>scm:git:https://github.com/AMIBYO/project-.git</url>
 <developerConnection>scm:git:https://github.com/AMIBYO/project-.git</developerConnection>
-  <tag>ParentProject-1.1</tag>
+  <tag>ParentProject-1.4</tag>
   </scm>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
